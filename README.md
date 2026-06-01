@@ -1,2 +1,4 @@
 # GRAB-Studio
-A Unity Editor for GRAB Levels. | Create, Edit, and GRAB!
+A Unity Editor for GRAB Levels.
+<br>
+I am still working on it...
